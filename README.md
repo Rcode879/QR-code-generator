@@ -3,4 +3,4 @@ A very simple python program that converts given data into a QR code that is the
 ## Libraries:
 -matplot lib
 
--QRcode
+-qrcode
